@@ -1,4 +1,4 @@
-# daryllbanal.github.io
+# [daryllbanal.github.io](https://daryllbanal1030.github.io/daryllbanal.github.io/)
 
 Welcome to my personal portfolio! This website showcases my journey as a Computer Engineering student, my skills, projects, and accomplishments. Through this portfolio, you can explore my work in hardware and software development, including projects I've completed throughout my academic career and various experiences that have helped shape my technical abilities.
 
@@ -25,7 +25,7 @@ Computer Hardware: Troubleshooting, system setup, and repair
 How to Access
 To view my portfolio website, visit the following GitHub Pages link:
 
-Portfolio Link: My Portfolio (You can customize this link with your GitHub Pages URL if hosted there)
+Portfolio Link: https://daryllbanal1030.github.io/daryllbanal.github.io/
 
 Contact Information
 I am always open to new opportunities for learning and collaboration. Feel free to connect with me:
